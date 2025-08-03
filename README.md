@@ -7,8 +7,7 @@ A sophisticated, production-ready SaaS landing page built with cutting-edge web 
 - **Modern Tech Stack**: Next.js 15, React 19, TypeScript
 - **Advanced Animations**: Framer Motion with custom animation components
 - **Responsive Design**: Mobile-first approach with Tailwind CSS v4
-- **Performance Optimized**: 95+ Lighthouse scores with optimized loading
-- **Accessibility First**: WCAG 2.1 AA compliant with ARIA implementation
+- **Performance Optimized**: 85+ Lighthouse scores with optimized loading
 - **Interactive Components**: Custom carousels, tooltips, and smooth scrolling
 
 ## 🛠️ Tech Stack
